@@ -1,0 +1,3 @@
+newUsersToday: 0;
+oldUsersToday: 0;
+actionsMade: 0;
